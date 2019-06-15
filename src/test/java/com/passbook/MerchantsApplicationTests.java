@@ -11,6 +11,7 @@ public class MerchantsApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("hello springboot");
     }
 
 }
